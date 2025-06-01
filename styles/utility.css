@@ -1,0 +1,10 @@
+/* Utility class */
+.grid{
+  display: grid;
+}
+.grid-flow-col{
+  grid-auto-flow: column;
+}
+.grid-cols02{
+  grid-template-columns: 1fr 1fr;
+}
